@@ -28,6 +28,17 @@ I’m especially interested in the aviation domain — but more broadly, I work 
 
 ---
 
+## 🔧 Featured Projects
+
+### [Azure SAS Viya Automation](https://github.com/PFZM/azure-sas-automation)
+> PowerShell runbooks to start and stop SAS Viya deployments on Azure — including AKS clusters, PostgreSQL, and Jumpbox/NFS VMs. Ideal for automating enterprise data platforms.
+
+- ✅ Written in PowerShell using Az modules
+- 🚀 Starts/stops Viya via Kubernetes cronjobs
+- ☁️ Automates AKS, Postgres, and supporting VMs
+
+---
+
 ## 🔧 Tech Stack
 
 ```yaml
